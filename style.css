@@ -1,0 +1,38 @@
+.btn {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    font-size: 50px;
+    background-color: rgb(29, 29, 29);
+    color:white;
+    border: none;
+} 
+.main{
+    margin-top: 35px;
+}  
+.holder{
+    height: 50px;
+    margin-bottom: 20px;
+    width: 300px;
+    font-size: 25px;
+}
+.title{
+    margin-top: 150px;
+    font-size: 50px;
+}
+.btn-group-space{
+    margin-top: 3px;
+}
+.score{
+    font-size: larger;
+}
+.input{
+    height: 35px;
+    margin-top: 20px;
+    width: 300px;
+    font-size: 25px;
+}
+.leaderboard{
+    color:black
+    
+}
